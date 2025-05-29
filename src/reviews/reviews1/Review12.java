@@ -1,3 +1,5 @@
+package reviews.reviews1;
+
 public class Review12 {
     public static void main(String[] args) {
         int age = 20;//ここに代入される値は整数である。今回は20
