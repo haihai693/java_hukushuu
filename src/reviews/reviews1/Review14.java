@@ -1,3 +1,5 @@
+package reviews.reviews1;
+
 public class Review14 {
     public static void main(String[] args) {
         String color = "赤";//「赤」「黄」「青」のいずれか　今回は「赤」
